@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="CANADA", ANIMAL PLANET
+#EXTINF:-1,CA: ANIMAL PLANET
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8123.m3u8
-#EXTINF:-1,group-title="CANADA", BBC WORLD NEWS
+#EXTINF:-1,CA: BBC WORLD NEWS
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8137.m3u8
 #EXTINF:-1,CA: BNN
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8136.m3u8
@@ -125,85 +125,85 @@ http://vue.onthewifi.com:80/live/NasirKhan/afghan/8143.m3u8
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8142.m3u8
 #EXTINF:-1,CA: TSN 5
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8141.m3u8
-#EXTINF:-1,CA: TVA SPORTS
+#EXTINF:-1 group-title="QUEBEC", TVA SPORTS
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8140.m3u8
-#EXTINF:-1,CA: TVA SPORTS 2
+#EXTINF:-1 group-title="QUEBEC", TVA SPORTS 2
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8139.m3u8
-#EXTINF:-1,CA: TVO
+#EXTINF:-1 group-title="QUEBEC", TVO
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8107.m3u8
 #EXTINF:-1,CA: WORLD FISHING NETWORK
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8154.m3u8
-#EXTINF:-1,CA|FR: ADDIK TV
+#EXTINF:-1 group-title="QUEBEC", ADDIK TV
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8212.m3u8
-#EXTINF:-1,CA|FR: ARTV
+#EXTINF:-1 group-title="QUEBEC", ARTV
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8211.m3u8
-#EXTINF:-1,CA|FR: ASSEMBLEE NATIONALE DU QUEBEC
+#EXTINF:-1 group-title="QUEBEC", ASSEMBLEE NATIONALE DU QUEBEC
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8210.m3u8
-#EXTINF:-1,CA|FR: CANAL D
+#EXTINF:-1 group-title="QUEBEC", CANAL D
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8209.m3u8
-#EXTINF:-1,CA|FR: CANAL SAVOIR
+#EXTINF:-1 group-title="QUEBEC", CANAL SAVOIR
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8208.m3u8
-#EXTINF:-1,CA|FR: CASA
+#EXTINF:-1 group-title="QUEBEC", CASA
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8207.m3u8
-#EXTINF:-1,CA|FR: CBC MONTREAL
+#EXTINF:-1 group-title="QUEBEC", CBC MONTREAL
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8206.m3u8
-#EXTINF:-1,CA|FR: CINEPOP
+#EXTINF:-1 group-title="QUEBEC", CINEPOP
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8205.m3u8
-#EXTINF:-1,CA|FR: CPAC
+#EXTINF:-1 group-title="QUEBEC", CPAC
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8204.m3u8
-#EXTINF:-1,CA|FR: DISNEY
+#EXTINF:-1 group-title="QUEBEC", DISNEY
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8203.m3u8
-#EXTINF:-1,CA|FR: FRANCE 24
+#EXTINF:-1 group-title="QUEBEC", FRANCE 24
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8201.m3u8
-#EXTINF:-1,CA|FR: HISTORIA
+#EXTINF:-1 group-title="QUEBEC", HISTORIA
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8199.m3u8
-#EXTINF:-1,CA|FR: ICI - TELEVISION
+#EXTINF:-1 group-title="QUEBEC", ICI - TELEVISION
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8197.m3u8
-#EXTINF:-1,CA|FR: MAX
+#EXTINF:-1 group-title="QUEBEC", MAX
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8193.m3u8
-#EXTINF:-1,CA|FR: METEO
+#EXTINF:-1 group-title="QUEBEC", METEO
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8192.m3u8
-#EXTINF:-1,CA|FR: MOI CIE
+#EXTINF:-1 group-title="QUEBEC", MOI CIE
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8191.m3u8
-#EXTINF:-1,CA|FR: MUSIQUE PLUS
+#EXTINF:-1 group-title="QUEBEC", MUSIQUE PLUS
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8190.m3u8
-#EXTINF:-1,CA|FR: PRISE 2
+#EXTINF:-1 group-title="QUEBEC", PRISE 2
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8189.m3u8
-#EXTINF:-1,CA|FR: RDI
+#EXTINF:-1 group-title="QUEBEC", RDI
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8188.m3u8
-#EXTINF:-1,CA|FR: RDS
+#EXTINF:-1 group-title="QUEBEC", RDS
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8187.m3u8
-#EXTINF:-1,CA|FR: SERIS+
+#EXTINF:-1 group-title="QUEBEC", SERIS+
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8186.m3u8
-#EXTINF:-1,CA|FR: SUPER ECRAN 1
+#EXTINF:-1 group-title="QUEBEC", SUPER ECRAN 1
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8185.m3u8
-#EXTINF:-1,CA|FR: SUPER ECRAN 2
+#EXTINF:-1 group-title="QUEBEC", SUPER ECRAN 2
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8184.m3u8
-#EXTINF:-1,CA|FR: SUPER ECRAN 3
+#EXTINF:-1 group-title="QUEBEC", SUPER ECRAN 3
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8183.m3u8
-#EXTINF:-1,CA|FR: SUPER ECRAN 4
+#EXTINF:-1 group-title="QUEBEC", SUPER ECRAN 4
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8182.m3u8
-#EXTINF:-1,CA|FR: TELE QUEBEC
+#EXTINF:-1 group-title="QUEBEC", TELE QUEBEC
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8181.m3u8
-#EXTINF:-1,CA|FR: TELEMAGINO
+#EXTINF:-1 group-title="QUEBEC", TELEMAGINO
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8179.m3u8
-#EXTINF:-1,CA|FR: TELETOON
+#EXTINF:-1 group-title="QUEBEC", TELETOON
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8180.m3u8
-#EXTINF:-1,CA|FR: TFO
+#EXTINF:-1 group-title="QUEBEC", TFO
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8178.m3u8
-#EXTINF:-1,CA|FR: TV5
+#EXTINF:-1 group-title="QUEBEC", TV5
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8177.m3u8
-#EXTINF:-1,CA|FR: TVA SPORTS
+#EXTINF:-1 group-title="QUEBEC", TVA SPORTS
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8174.m3u8
-#EXTINF:-1,CA|FR: TVA SPORTS (QUEBEC)
+#EXTINF:-1 group-title="QUEBEC", TVA SPORTS (QUEBEC)
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8175.m3u8
-#EXTINF:-1,CA|FR: VRAK TV
+#EXTINF:-1 group-title="QUEBEC", VRAK TV
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8171.m3u8
-#EXTINF:-1,CA|FR: YOOPA
+#EXTINF:-1 group-title="QUEBEC", YOOPA
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8170.m3u8
-#EXTINF:-1,CA|FR: Z TELE
+#EXTINF:-1 group-title="QUEBEC", Z TELE
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8169.m3u8
-#EXTINF:-1,CA|FR: ZESTE
+#EXTINF:-1 group-title="QUEBEC", ZESTE
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8168.m3u8
-#EXTINF:-1,CA|FR:RDS INFO
+#EXTINF:-1 group-title="QUEBEC", RDS INFO
 http://vue.onthewifi.com:80/live/NasirKhan/afghan/8167.m3u8
